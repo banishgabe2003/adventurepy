@@ -1,0 +1,71 @@
+In a journey fueled by determination and a strong will, you set course for the treachorous
+Bonchavi desert to the west, acknowledging the dangers and the treasure that comes along with it.
+The aggresively humid air hits you like a wall as you enter the territory, and you're forced
+to cover your mouth and nose with a cloth due to all the sand in the air. The sky is a deep orange hue,
+and the sun beats down as if it solely had it out for you. For miles, you only come across mounds of sand,
+skeletons, and small patches of rubble from a long lost civilization. The occasional harpy soars
+overhead, but seem to be too bothered by the heat to swoop down and attack.
+
+Eventually, you spot a singular tower in the distance, hazy in the heat, half buried in sand on an angle.
+       /\
+       ||
+      ====
+      |  |
+      |  |
+      ====
+      XXXX
+      |\/|
+      |/\|
+      |\/|
+      |/\|
+      |\/|
+      |/\|
+     /____\
+     |    |
+     |    |
+    /      \
+   /        \
+  /          \
+ /            \
+/              \
+----------------
+
+It seems rather unplundered, and you make way towards it in hopes of some hidden treasure, or
+shelter from the heat at the very least. As you enter the large cobblestone tower, the wind
+echoes through the cracks and holes of the tower, leaving an eerie atmosphere as you brush away
+hills of sand and explore empty rooms. Eventually, after managing some stumbling and climbing up
+crumbled stairs, you reach a large central chamber with a fair layer of sand and a mound of gold
+at the end of it. You excitedly rush towards it before realizing you made a mistake, and it's too
+late: the ground shakes and throws you off your feet, face-first into the sand. The tower itself shakes
+and dust quickly fills the air. As you manage to get yourself up, a large figure suddenly shoots up
+from the ground and lets out a wretched cry; you recognize it as an ancient sandworm, a fiersome enemy
+only rumored to exist here. Nervously, you recognize only two possible options: Submit and die, or fight.
+And that's way too much gold in front of you to submit. You calm your shakes, and aim your weapon high.
+                            __..._              
+                        ..-'      o.            
+                     .-'            :           
+                 _..'             .'__..--<     
+          ...--""                 '-.           
+      ..-"                       __.'           
+    .'                  ___...--'               
+   :        ____....---'                        
+  :       .'                                    
+ :       :           _____                      
+ :      :    _..--"""     """--..__             
+:       :  ."                      ""i--.       
+:       '.:                         :    '.     
+:         '--...___i---""""--..___.'      :     
+ :                 ""---...---""          :     
+  '.                                     :      
+    '-.                                 :       
+       '--...                         .'        
+         :   ""---....._____.....---""          
+         '.    '.                               
+           '-..  '.                             
+               '.  :                            
+                : .'                            
+               /  :                             
+             .'   :                             
+           .' .--'                              
+          '--'
+          

@@ -1,0 +1,39 @@
+Welcome to the land of Narniuh!                                                                         
+         ,--.                                                                  
+       ,--.'|                                                        ,---,     
+   ,--,:  : |                                  ,--,                ,--.' |     
+,`--.'`|  ' :             __  ,-.      ,---, ,--.'|            ,--,|  |  :     
+|   :  :  | |           ,' ,'/ /|  ,-+-. /  ||  |,           ,'_ /|:  :  :     
+:   |   \ | :  ,--.--.  '  | |' | ,--.'|'   |`--'_      .--. |  | ::  |  |,--. 
+|   : '  '; | /       \ |  |   ,'|   |  ,"' |,' ,'|   ,'_ /| :  . ||  :  '   | 
+'   ' ;.    ;.--.  .-. |'  :  /  |   | /  | |'  | |   |  ' | |  . .|  |   /' : 
+|   | | \   | \__\/: . .|  | '   |   | |  | ||  | :   |  | ' |  | |'  :  | | | 
+'   : |  ; .' ," .--.; |;  : |   |   | |  |/ '  : |__ :  | : ;  ; ||  |  ' | : 
+|   | '`--'  /  /  ,.  ||  , ;   |   | |--'  |  | '.'|'  :  `--'   \  :  :_:,' 
+'   : |     ;  :   .'   \---'    |   |/      ;  :    ;:  ,      .-./  | ,'     
+;   |.'     |  ,     .-./        '---'       |  ,   /  `--`----'   `--''       
+'---'        `--`---'                         ---`-'                           
+                                                                               
+This is a vast, explorable region filled with magic and monsters. You are a citizen from a small farming village south
+of the kingdom of Narniuh, Archenland.
+~         ~~          __
+       _T      .,,.    ~--~ ^^
+ ^^   // \                    ~
+      ][O]    ^^      ,-~ ~
+   /''-I_I         _II____
+__/_  /   \ ______/ ''   /'\_,__
+  | II--'''' \,--:--..,_/,.-{ },
+; '/__\,.--';|   |[] .-.| O{ _ }
+:' |  | []  -|   ''--:.;[,.'\,/
+'  |[]|,.--'' '',   ''-,.    |
+  ..    ..-''    ;       ''. '
+You, your mother, and your brother live a simple life; you own a small plot of land,
+and provide much of the necessary wheat stock to be transported to Archenland. It isn't much money, but you're happy.
+However, last week, your mother fell ill and has been bedridden ever since. The local doctor came by and gave you the bad news:
+She can be helped, but you'll need a whopping 100G to cover the medicinal costs. With only a few copper to your name, you decide
+that your only option is to adventure out into the land, and search for gold that's been hidden away, either by monsters or nature alike.
+
+Thus, you hug your little brother goodbye, and he stops you before you leave, saying:
+"Wait, brother! I found these in father's old belongings... maybe these will help you?"
+He opens a tattered wrap that unveils three items before you:
+A shining, silver sword; a wooden staff with a red orb atop; and a flexible, steel bow with a quiver of arrows attatched.

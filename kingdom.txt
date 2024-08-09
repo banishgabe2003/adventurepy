@@ -1,0 +1,36 @@
+You make the long trek north, to the fabled grand kingdom of Archenland. It's truly a grand sight compared to your home:
+Enormous mountains provide the landscape that sits behind the towering castle and eclectic mix of homes, shops, stables,
+and more.
+       /\         /\                    .           /\
+      /  \       /  \                   |@>        /  \
+     /    \     / .  \                  |         /    \
+    /      \   /  |@> \       /\       / \       /      \
+   /     /\ \ /   |    \     /  \     /   \     /        \
+  /     /  \ /  _ | _   \   /    \    | O |    /          _   _   _
+ /     /    \  |_|_|_|   \ /      \   |___|   /          | |_| |_| |
+/     /      \  | O |     /        \  | |_|  /      /\   |         |
+    _   _   _ \ |___|    /          \ |__|| /      /  \  |  O   O  |
+   | |_| |_| |  | |_|   /             | |_|       /    \ |   __ _  |
+   |         |  |__||  /              |_| |      /       |     |   |
+   | O  O  O |  | |_| /               |__ |     /        | O  O  O |
+   |  _      |  _   _   _        ______   |   _   _   _  |  _      |
+   | |__|_ | |_| |_| |_| |______|      |_____| |_| |_| |_| |__|_ |_|
+   |  |   _| |        _  |  | _|  ____     _||        _  |  |    | |
+   |   _| _  ||_|   _|_  | _|_   |||||| |_| _||_|   _|_  |   _| _| |
+   |  __|  |_|  |_       | | |__ |++++|   |_||  |_      ||  __|  |_|
+   |_________|___________|-------------------|___________|_________|
+                                 /_/_/
+                                /_/_/
+As you enter the bustling kingdom after presenting your Narniuh citizenship to the front guards, you become immediately
+overwhelmed by the bustling streets of numerous citizens running around. Some are screaming in a drunken brawl, one man is
+announcing last call for an ox-cart ride, and a group of kids are tossing a ball around. Others are vocally competing to promote
+their store the loudest, and a few guards are chasing a quick man in black coverings. 
+
+After accustoming yourself to the area, you head towards a local tavern in an alley that is promoting local quest postings. As you enter, the bar is rowdy
+and you just make it in time to witness a medium-built man knock out a smaller one. The crowd cheers, and he clinks mugs with another patron
+as he takes a pile of gold as his prize. Suddenly, he makes eager eye contact with you, and says:
+"Oi! Think you can beat me in a fight, smallfry? Nobody has before, but there's a fat pile of gold in it for you if you can!
+I'll even let you use weapons! C'mon, haha!"
+You sweat a bit at his size, and clench your fist.
+
+ 
